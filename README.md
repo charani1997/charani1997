@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Charani Nimesha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-<h4 align="center"><Strong>University of Peradeniya</Strong></h4>
+<h3 align="center">University of Peradeniya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charani1997&label=Profile%20views&color=0e75b6&style=flat" alt="charani1997" /> </p>
 
 - 🔭 I’m currently working on **Research project**
 
-- 🌱 I’m currently learning **University of Peradeniya**
+- 📚 I’m currently studying **University of Peradeniya**
+
+- 🎓 I’m following an **Honour degree in Computer Science at University of Peradeniya**
 
 - 👨‍💻 All of my projects are available at [https://www.thecn.com/CN773](https://www.thecn.com/CN773)
 
-- 💬 Ask me about **React JS, Spring Boot, MYSQL**
+- 💬 Ask me about **React JS, Spring Boot, MYSQL, Java, Python**
 
 - 📫 How to reach me **charaninimesha1997@gmail.com**
 
