@@ -1,5 +1,5 @@
 ![232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336](https://github.com/charani1997/charani1997/assets/122531317/8d0f95c7-bc87-419a-8d98-e7aefabd2d25)
-<h1 align="center">Hi 👋, I'm Charani Nimesha</h1>
+<h1 align="center">Hi 👋 I'm Charani Nimesha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <h3 align="center">University of Peradeniya</h3>
 
