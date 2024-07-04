@@ -1,15 +1,16 @@
 ![232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336](https://github.com/charani1997/charani1997/assets/122531317/8d0f95c7-bc87-419a-8d98-e7aefabd2d25)
 <h1 align="center">Hi 👋 I'm Charani Nimesha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">I love to software testing</h3>
 <h3 align="center">University of Peradeniya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charani1997&label=Profile%20views&color=0e75b6&style=flat" alt="charani1997" /> </p>
 
-- 🔭 I’m currently working on **Research project**
+- 📚 I studied computer science (honours) degree at **University of Peradeniya**
 
-- 📚 I’m currently studying **University of Peradeniya**
+- 📚 I have a second class upper division degree from **University of Peradeniya**
 
-- 🎓 I’m following an **Honour degree in Computer Science at University of Peradeniya**
+- 🎓 I followed an **Honour degree in Computer Science at University of Peradeniya**
 
 - 👨‍💻 All of my projects are available at [https://www.thecn.com/CN773](https://www.thecn.com/CN773)
 
